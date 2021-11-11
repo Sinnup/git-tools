@@ -10,3 +10,5 @@ Este repositorio es para exponer herramientas de git útil en el manejo de proye
 - Este es otro
 Otro commit
 Otro commit loko pariente
+Este texto debe llevar punto y coma;
+
